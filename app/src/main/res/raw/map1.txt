@@ -1,0 +1,9 @@
+10 8
+o o o o o o o o o o
+o o o o o o o o o o
+o x x x x x x x x o
+o x x x x x x x x o
+o x o o o o o o o o
+o x o o o o o o o o
+o x o o o o x o x x
+start x end end store store x o o restroom

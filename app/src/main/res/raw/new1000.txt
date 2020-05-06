@@ -1,0 +1,26 @@
+x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,o,o,o,5,x,x,x,x,x,x,x,x
+x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,o,o,o,x,x,x,x,x,x,x,x,x
+x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,o,o,o,x,x,x,x,x,x,x,x,x
+x,x,x,x,x,x,3,x,x,x,x,x,x,x,x,x,x,o,o,o,o,o,o,o,o,o,1,x,x
+o,o,o,o,o,o,o,o,o,o,o,o,o,o,o,o,o,o,o,x,x,x,o,o,o,o,o,o,o
+o,o,o,o,o,o,o,o,o,o,o,o,o,o,o,o,o,o,o,x,x,x,o,o,o,o,x,x,x
+o,o,x,x,o,o,x,x,o,o,x,x,o,o,o,o,o,o,o,x,x,x,o,o,o,o,x,x,x
+o,o,x,x,o,o,x,x,o,o,x,x,o,o,o,o,o,o,o,x,x,x,o,o,o,o,x,x,x
+o,o,o,o,o,o,o,o,o,o,o,o,o,o,o,o,o,o,o,o,o,o,o,o,o,o,o,2,2
+o,o,o,o,o,o,o,o,o,o,o,o,o,o,o,o,o,o,o,o,o,o,o,o,o,o,o,2,2
+4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,x,x,x,x,x,x,s,x,x,x,x,x
+
+'x','x','x','x','x','x','x','x','x','x','x','x','x','x','x','x','x','o','o','o','5','x','x','x','x','x','x','x','x'
+'x','x','x','x','x','x','x','x','x','x','x','x','x','x','x','x','x','o','o','o','x','x','x','x','x','x','x','x','x'
+'x','x','x','x','x','x','x','x','x','x','x','x','x','x','x','x','x','o','o','o','x','x','x','x','x','x','x','x','x'
+'x','x','x','x','x','x','3','x','x','x','x','x','x','x','x','x','x','o','o','o','o','o','o','o','o','o','1','x','x'
+'o','o','o','o','o','o','o','o','o','o','o','o','o','o','o','o','o','o','o','x','x','x','o','o','o','o','o','o','o'
+'o','o','o','o','o','o','o','o','o','o','o','o','o','o','o','o','o','o','o','x','x','x','o','o','o','o','x','x','x'
+'o','o','x','x','o','o','x','x','o','o','x','x','o','o','o','o','o','o','o','x','x','x','o','o','o','o','x','x','x'
+'o','o','x','x','o','o','x','x','o','o','x','x','o','o','o','o','o','o','o','x','x','x','o','o','o','o','x','x','x'
+'o','o','o','o','o','o','o','o','o','o','o','o','o','o','o','o','o','o','o','o','o','o','o','o','o','o','o','2','2'
+'o','o','o','o','o','o','o','o','o','o','o','o','o','o','o','o','o','o','o','o','o','o','o','o','o','o','o','2','2'
+'4','4','4','4','4','4','4','4','4','4','4','4','4','4','4','4','4','x','x','x','x','x','x','s','x','x','x','x','x'
+
+1엘레베이터 2 vip식당 3 대공연장
+4 대공연장2 5 화장실 29 10
